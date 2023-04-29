@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/lankiman/Rating-App)
-- Live Site URL: [Add live site URL here](https://lankiman.github.io/Rating-App/index.html)
+- Solution URL: [https://github.com/lankiman/Rating-App]
+- Live Site URL: [https://lankiman.github.io/Rating-App/index.html]
 
 ## My process
 
