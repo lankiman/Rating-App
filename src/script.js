@@ -28,7 +28,7 @@ function resultPage() {
     alert("Please select a rating to continue");
   } else {
     localStorage.setItem("index", index);
-    location.href = "./result.html";
+    window.location.href = "./result.html";
   }
 }
 
@@ -44,6 +44,6 @@ function resultTest() {
 }
 if (window.location.pathname.includes("result.html")) {
   if (!localStorage.getItem("index")) {
-    location.href = "./index.html";
+    window.location.href = "./index.html";
   }
 }
