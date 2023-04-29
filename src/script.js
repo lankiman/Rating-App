@@ -44,6 +44,6 @@ function resultTest() {
 }
 if (window.location.pathname.includes("result.html")) {
   if (!localStorage.getItem("index")) {
-    location.href = "../public/index.html";
+    location.href = "./index.html";
   }
 }
