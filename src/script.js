@@ -28,7 +28,7 @@ function resultPage() {
     alert("Please select a rating to continue");
   } else {
     localStorage.setItem("index", index);
-    location.href = "../public/result.html";
+    location.href = "./result.html";
   }
 }
 
